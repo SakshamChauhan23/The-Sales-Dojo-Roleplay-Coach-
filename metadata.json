@@ -1,0 +1,7 @@
+{
+  "name": "The Sales Dojo",
+  "description": "An interactive AI training simulator where sales representatives practice handling objections and closing deals against difficult virtual personas.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
